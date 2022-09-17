@@ -1,0 +1,5 @@
+[25-Dec-2021 08:50:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\admin\MasterController::Department() in /home/mereid213/public_html/leadcrm/app/Http/Controllers/admin/MasterController.php on line 33
+[25-Dec-2021 08:50:57 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\admin\MasterController::Department() in /home/mereid213/public_html/leadcrm/app/Http/Controllers/admin/MasterController.php on line 33
+[25-Dec-2021 08:54:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\admin\MasterController::Department() in /home/mereid213/public_html/leadcrm/app/Http/Controllers/admin/MasterController.php on line 33
+[25-Dec-2021 11:19:38 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\admin\MasterController::updatecircle() in /home/mereid213/public_html/leadcrm/app/Http/Controllers/admin/MasterController.php on line 232
+[28-Dec-2021 16:22:58 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\admin\UserController::Empolyees() in /home/mereid213/public_html/leadcrm/app/Http/Controllers/admin/UserController.php on line 205
